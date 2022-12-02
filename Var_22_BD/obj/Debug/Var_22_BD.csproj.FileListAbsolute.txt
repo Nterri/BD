@@ -1,0 +1,10 @@
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\bin\Debug\Var_22_BD.exe.config
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\bin\Debug\Var_22_BD.exe
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\bin\Debug\Var_22_BD.pdb
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\obj\Debug\Var_22_BD.csprojAssemblyReference.cache
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\obj\Debug\Var_22_BD.Form1.resources
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\obj\Debug\Var_22_BD.Properties.Resources.resources
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\obj\Debug\Var_22_BD.csproj.GenerateResource.cache
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\obj\Debug\Var_22_BD.csproj.CoreCompileInputs.cache
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\obj\Debug\Var_22_BD.exe
+C:\Users\egort\OneDrive\Desktop\Var_22_BD-master\Var_22_BD\obj\Debug\Var_22_BD.pdb
